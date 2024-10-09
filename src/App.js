@@ -6,8 +6,8 @@ function App() {
       {/* Header */}
       <div className="header-container">
         <header className="app-header">
-          <h1>Box Breathing</h1>
-          <h2>Just breathe...</h2>
+          <h1>box breathing</h1>
+          <h2>just breathe...</h2>
         </header>
       </div>
       {/* Body */}
