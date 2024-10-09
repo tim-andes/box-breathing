@@ -1,5 +1,9 @@
 import "./App.css";
 
+/**
+ * Main component of the application.
+ * Renders the overall structure of the app, including the header, body, and grid container.
+ */
 function App() {
   return (
     <div className="parent-container">
