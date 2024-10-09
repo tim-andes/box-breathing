@@ -7,5 +7,6 @@ For meditation, grounding techniques, and stress reduction.
 - [ ] Add timed box-fill animation via CSS
 - [ ] Add Start button
 - [ ] Add "inhale, hold, exhale, hold" text
-- [ ] Upon pressing Start button, fade out h1 and h2
+- [ ] Upon pressing Start button, fade out Start button, h1, and h2
 - [ ] Add animation to fade "inhale, hold, exhale, hold" text in and out
+- [ ] Add "i" info logo somewhere apparent but not distracting
