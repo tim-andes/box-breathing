@@ -38,3 +38,10 @@ h2 {
   border: 2px solid	#e0edee;
   border-radius: 15px;
 }
+
+#cell6,
+#cell7,
+#cell10,
+#cell11 {
+  border: none;  
+}
